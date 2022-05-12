@@ -2,6 +2,7 @@
 3hrs Coding / Learn Coding (May 11 - June 9)
 
 Day 1: Introduction to Dart
+
 Keywords - They are the reserved words in Dart which has some special meaning to the compiler.
 Data Types - These are the type of values that can be represented and manipulated in a programming language.
 Constants - is defined as an immutable object, which means it can't be changed or modified during the execution of the program.
