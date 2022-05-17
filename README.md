@@ -3,13 +3,15 @@
 
 Day 1: Introduction to Dart
 
-Keywords
-Data Types
-Constants
-Variables
-Functions
+Keywords,
+Data Types,
+Constants,
+Variables,
+Functions,
 
 Day 2: Dart control statements and collections
 
-IF & Else
-Operators
+IF & Else,
+Operators,
+Lists,
+Sets,
